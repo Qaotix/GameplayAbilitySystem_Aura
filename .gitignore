@@ -1,0 +1,21 @@
+Binaries
+DerivedDataCache
+Intermediate
+Saved
+Build
+
+
+# These plugins don't get committed, because you can either install them via the
+# Epic Games Launcher or via 'git clone' into the Plugins directory.
+
+.uet
+.vscode
+.vs
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
