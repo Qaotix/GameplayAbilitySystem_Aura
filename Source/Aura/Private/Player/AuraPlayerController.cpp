@@ -8,6 +8,7 @@
 #include "Compression/lz4.h"
 #include "Interaction/EnemyInterface.h"
 #include "Math/RotationMatrix.h"
+#include "Player/AuraPlayerState.h"
 
 AAuraPlayerController::AAuraPlayerController()
 {
